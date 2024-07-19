@@ -1,0 +1,27 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Tayda Part Number
+1,1,A1,Arduino_Nano_Socket,arduino-library:Arduino_Nano_Socket,arduino-library:Arduino_Nano_Socket,
+2,2,"C1, C2",10u,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~
+3,17,"C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19",100n,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,~
+4,1,D1,1N914,Diode:1N914,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,
+5,1,D2,1N4001,Diode:1N4001,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,
+6,1,J1,PWR,Connector_Generic:Conn_01x03,Connector_BarrelJack:BarrelJack_Horizontal,A-3974
+7,2,"MIDI_IN1, MIDI_OUT1",~,Connector_Generic:Conn_01x07,SynthParts:MIDI,A-1010
+8,2,"PROG1, PWRSW1",~,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+9,2,"R1, R2",10k,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+10,24,"R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26",33k,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+11,10,"R27, R28, R29, R30, R31, R32, R33, R34, R35, R36",20k,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+12,4,"R37, R38, R39, R40",220R,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+13,2,"R41, R42",1k,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+14,25,"RV1, RV2, RV3, RV4, RV5, RV6, RV7, RV8, RV9, RV10, RV11, RV12, RV13, RV14, RV15, RV16, RV17, RV18, RV19, RV20, RV21, RV22, RV23, RV24, RV25",100k,Device:R_Potentiometer,Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical,X-3547
+15,2,"SW1, SW2",~,:JunoBtn_1,SynthParts:JunoButtons,X-4850
+16,10,T1 - T10,~,:SP8T_1,RotarySwitch:Switch_Rotary 8POS,A-5950
+17,5,"U1, U2, U3, U4, U5",4051,4xxx:4051,Package_DIP:DIP-16_W10.16mm_LongPads,
+18,1,U6,6N138,Isolator:6N138,Package_DIP:DIP-8_W7.62mm_LongPads,
+19,1,U7,L7805,Regulator_Linear:L7805,Package_TO_SOT_THT:TO-220-3_Vertical,
+20,2,Jumpers,,2x1 0.1 inch header jumpers,,A-1324
+21,1,8 pin DIP socket,,,,
+22,5,16 pin DIP socket,,,,
+23,1,female pinheaders (or arduino socket),,0.1 inch female pinheaders,,
+24,1,Power rocker switch,,,,A-6103
+25,1,"DC Wall wart, 9V DC 1A center positive 5x2.5",,,,
+26,35,knobs,,whatever kind you want!,,
