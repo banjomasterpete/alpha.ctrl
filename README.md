@@ -1,2 +1,6 @@
 # alpha.ctrl
 An open source Sysex controller for the Roland Alpha Juno
+
+The Alpha Juno is a classic synthesizer with patches ranging from lush pads to the ‘Hoover’, but it’s also annoying to program. All parameter changes are done using 2 membrane keys and the alpha dial, this is adequate for making small changes but building patches from scratch can turn to agony. If it was the 80’s, the Alpha Juno could have been purchased with the optional programmer, the PG-300. This controller was specifically built for the Alpha 1 and 2 and restored the individual parameter change functions of previous Junos. In the 2020’s however, the PG-300s are often going for twice the price of the Juno, if you can even find one! There are other options available in software applications, custom MIDI controller layouts, and a few third party controllers. I’ve found the third party controllers to be unavailable or nearly as expensive as the originals, so this led me to design my own instead.
+
+The alpha.ctrl can be built inexpensively, and its open source design makes it further modifiable by each user. I really encourage anyone to make modifications to it, I’m sure there are further optimizations to make than I could find.
